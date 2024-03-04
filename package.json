@@ -1,0 +1,20 @@
+{
+  "name": "jay602831",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "jay60283",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jay60283/jay602831.git"
+  }
+}
